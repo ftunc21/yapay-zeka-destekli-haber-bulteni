@@ -2,7 +2,7 @@
 
 Bu proje, Türkiye'deki popüler haber sitelerinden güncel haberleri otomatik olarak toplayan, Google Gemini API'sini kullanarak bu haberleri önem sırasına göre sıralayan, özetleyen ve sonuçları şık bir HTML bülteni olarak sunan bir Python betiğidir.
 
-![Örnek Bülten Görüntüsü](https://i.imgur.com/SAMPLE.jpeg)  <!-- Gerçek bir ekran görüntüsü linki ile değiştirin -->
+![Örnek Bülten Görüntüsü](image.png)  <!-- Gerçek bir ekran görüntüsü linki ile değiştirin -->
 
 ---
 
